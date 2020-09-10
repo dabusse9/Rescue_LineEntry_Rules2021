@@ -81,16 +81,19 @@ WARNING: Corrections and clarifications to the rules may be posted on the Forum 
 
 IMPORTANT: Please read through the https://junior.robocup.org/robocupjunior-general-rules/[RoboCupJunior General Rules] before proceeding on with these
 rules, as they are the premise for all rules. The English rules published by the
-Maze Entry Working Group are the only official rules for  RoboCupJunior Rescue Maze Entry 2021. The translated versions that can be published by each
-regional committee are only reference information for non-English speakers to better
-understand the rules. It is the responsibility of the teams to have read and understood
+Line Entry Working Group are the only official rules for RoboCupJunior Rescue Line Entry 2021. The translated versions that can be published by each
+regional committee are only reference information for non-English speakers to better understand the rules. It is the responsibility of the teams to have read and understood
 the official rules.
 
 [discrete]
 == Scenario
 
-TThe land is simply too dangerous for humans to reach the victims. Your team has been given a difficult task. The robot must be able to carry out the rescue mission in a fully autonomous mode with no human assistance. The robot must be durable and intelligent enough to navigate through treacherous terrain with hills, uneven land and rubble without getting stuck. When the robot finally finds the victims, it has to gently and carefully transport the victims to the safe evacuation point where humans can take over the rescue. After the victim rescue, the robot should be able to find its way out of the dangerous area.
+The land is simply too dangerous for humans to reach the victims. Your team has been given a difficult task.
+The robot must be able to carry out a rescue mission in a fully autonomous mode with no human assistance.
+The robot must be durable and intelligent enough to navigate through treacherous terrain with hills, uneven land and rubble without getting stuck.
+When the robot finally finds the victims in the evacuation zone, it has to gently and carefully transport the victims to the safe evacuation point where humans can take over the rescue.
 Time and technical skills are the essential! Come prepared to be the most successful rescue team.
+
 
 image::media/line/field_overview.jpg[]
 
@@ -99,12 +102,14 @@ image::media/line/field_overview.jpg[]
 
 An autonomous robot should follow a black line while overcoming different problems in a modular field formed by tiles with different patterns. The floor is white in colour and the tiles are on different levels connected with ramps.
 
-Teams are not allowed to give their robot any advance information about the field as the robot is supposed to recognize the field by itself. The robot earns points as follows:
+Teams are not allowed to give their robot any information in advance about the field as the robot is supposed to recognize the field by itself. The robot earns points as follows:
 
-* 15 points for following the correct path on a tile at an intersection or a dead end.
+* 10 points for following the correct path on a tile at an intersection or a dead end.
+* 15 points for navigating through a seesaw tile
 * 10 points for overcoming an obstacle (bricks, blocks, weights and other large, heavy items). A robot is expected to navigate the various obstacles.
-* 10 points for reacquiring the line after a gap.
-* 5 points for negotiating a speed bump or navigating through a ramp.
+* 10 points for reacquiring the line after a gap
+* 10 points for successfully navigating through a ramp (i.e. up and land successfully)
+* 5 points for negotiating a speed bump
 
 If the robot gets stuck in the field, it can be restarted at the last visited checkpoint. The robot will earn points when it reaches new checkpoints. At the end of the line there will be a rectangular room with walls (the evacuation zone). The entrance to the room will be marked with a strip of reflective silver tape on the floor.
 
