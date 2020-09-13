@@ -2,73 +2,110 @@
 
 === Pre-round Practice
 
-When possible, teams will have access to practice fields for calibration and testing throughout the competition.
+. When possible, teams will have access to practice fields for calibration and testing throughout the competition.
 
-Whenever there are dedicated independent fields for competition and practice, it is at the organizers’ discretion if testing is allowed on the competition fields.
+. Whenever there are dedicated independent fields for competition and practice, it is at the organizers’ discretion if testing is allowed on the competition fields.
 
 === Humans
 
-Teams should designate one of their members as “captain” and another one as “co-captain.” Only these two team members will be allowed access to the competition fields, unless otherwise directed by a referee. Only the captain will be allowed to interact with the robot during a scoring run.
+. Teams should designate one of their members as “captain” and another one as “co-captain.” Only these two team members will be allowed access to the competition fields, unless otherwise directed by a referee. Only the captain will be allowed to interact with the robot during a scoring run.
 
-The captain can move the robot only when they are told to do so by a referee.
+. The captain can move the robot only when they are told to do so by a referee.
 
-Other team members (and any spectators) within the vicinity of the rescue field have to stand at least 150 cm away from the field while their robot is active, unless otherwise directed by a referee.
+. Other team members (and any spectators) within the vicinity of the competition field have to stand at least 150 cm away from the field while their robot is active, unless otherwise directed by a referee.
 
-No one is allowed to touch the fields intentionally during a scoring run.
+. No one is allowed to touch the fields intentionally during a scoring run.
 
 === Start of Play
+. A run begins at the scheduled starting time whether or not the team is present or ready. Start times
+will be posted around the venue.
 
-A run begins at the scheduled starting time whether or not the team is present or ready. Start times will be posted around the venue.
+. The checkpoint marker is a marker that indicates for humans which tiles are checkpoints. A disk
+with 5 mm to 12 mm thickness and up to 70 mm in diameter has been used frequently, but can be
+different dependent on the organizer. Its purpose is to indicate the checkpoint tiles to humans.
 
-Before the scoring run begins, the team defines which evacuation point tile should be used (see 1.7.4).
+. The number of checkpoint markers and their locations will be predetermined by the field designers.
 
-The checkpoint marker is a marker that indicates for humans which tiles are checkpoints. It can be 5 mm to 12mm thick and up to 70 mm in diameter. The number of possible checkpoints will depend on the length of the course.
+. Checkpoints cannot be placed on tiles with scoring elements.
 
-Before the scoring run starts, the team captain will decide which tiles should be checkpoints and place the markers on those tiles.
+. The start tile is a checkpoint, where the robot can restart.
 
-Only one checkpoint marker may be placed on a tile.  Checkpoint markers may not be placed on tiles with scoring elements. Once the scoring run has begun (see 3.3.11), the markers cannot be changed. Note: If a robot moves a marker, it is still the original tile that is the checkpoint. The marker is only there for humans to remember where the checkpoints are located.
+. Once the run has begun, the robot is not permitted to leave the competition area.
 
-The start tile is a checkpoint, where the robot can restart. The team can't use one of their checkpoint markers for the start tile.
+. Each team will be given a maximum time of 8 minutes to calibrate the sensors and let the robot
+complete the course. The time for each run will be kept by the referee.
 
-Once the scoring run has begun, the robot is not permitted to leave the competition area.
+. Calibration is defined as taking sensor readings and modifying the robot’s programming to
+accommodate such sensor readings. Any and all pre-mapping activities will result in immediate
+disqualification of the robot for the round.
 
-Each team will be given a maximum time of 8 minutes to calibrate the sensors, select the checkpoints and let the robot complete the course. The time for each run will be kept by the referee.
+. Teams may calibrate their robot in as many locations as desired on the field, but the clock will
+continue to run. Robots are not permitted to move on their own while calibrating.
 
-Calibration is defined as taking sensor readings and modifying the robot's programming to accommodate such sensor readings. Any and all pre-mapping activities will result in immediate disqualification of the robot for the round.
+. Once a team is ready to start a scoring run, they must notify the referee. To begin a scoring run, the
+robot is placed on the start tile of the course as indicated by the referee. Once a scoring run has
+begun, no more calibration is permitted, including changing of code/code selection.
 
-Teams may calibrate their robot in as many locations as desired on the field, but the clock will continue to run. Robots are not permitted to move on their own while calibrating.
+. Once a robot begins its scoring run, the referee will roll a standard 6-sided dice to determine in
+which corner the evacuation point will be located.
 
-Once a team is ready to start a scoring run, they must notify the referee. To begin a scoring run, the robot is placed on the starting tile of the course as indicated by the referee. Once a scoring run has begun, no more calibration is permitted, this includes changing of code/code selection.
+. Obstacles may be removed, added or changed just before a scoring run starts to prevent teams from
+pre-mapping the layout of the fields.
 
-Once a robot begins its scoring run, the referee will roll a standard 6-sided dice to determine in which corner the evacuation point will be located.
+. Individual tiles may be changed or switched just before a scoring run starts to prevent teams from
+pre-mapping the layout of the fields. This may happen on the basis of a die rolled by the referee or
+with another method of randomization announced by the organizers.
 
-Obstacles may be removed, added or changed just before a run starts to prevent teams from pre-mapping the layout of the fields.
-
-Individual tiles may be changed or switched just before a run starts to prevent teams from pre-mapping the layout of the fields. This may happen on the basis of a die rolled by the referee or with another method of randomization announced by the organizers.
-
-The difficulty of the run and the amount of points that can be reached will be the same or usually the same for every team in a given round on a particular field.
+. The difficulty of the scoring run and the amount of points that can be obtained will be the same for
+every team in a given round on a particular field.
 
 === Game Play
 
-Robots will start behind the joint in between the start tile and the next tile along the course towards the evacuation zone. Correct placement will be checked by the referee.
+. Robots will start behind the joint in between the start tile and the next tile along the course. Correct placement will be checked by the referee.
 
-Modifying the robot during a scoring run is prohibited, which includes remounting parts that have fallen off.
+. Modifying the robot during a scoring run is prohibited, which includes remounting parts that have fallen off.
 
-Any parts that the robot loses intentionally or unintentionally will be left in the field until the run is over. Team members and judges are not allowed to remove parts from the field during a run.
+. Any parts that the robot loses intentionally or unintentionally will be left in the field until the run is over. Team members and referees are not allowed to move or remove parts from the field during a scoring run.
 
-Teams are not allowed to give their robot any advance information about the field. A robot is supposed to recognize the field elements by itself.
+. Teams are not allowed to give their robot any advance information about the field. A robot is supposed to recognize the field elements by itself.
 
-The robot must follow the course completely to enter the evacuation zone.
+. The robot must follow the course completely to enter the evacuation zone.
 
-The robot has visited a tile when more than half the robot is within that tile when viewed from above.
+. The robot has visited a tile when more than half the robot is within that tile when viewed from above.
+
+=== Lack of Progress
+
+. A lack of progress occurs when:
+.. a team captain declares a Lack of Progress.
+.. a robot loses the black line without regaining it by the next tile in the sequence (see figures at end of the section).
+.. a robot reaches a line that is not in the intended sequence.
++
+NOTE: "sequence" is not including diagonal sequence
+
+. If a lack of progress occurs, the robot must be positioned on the previous checkpoint tile facing the path towards the evacuation zone and checked by the referee.
+
+. After a lack of progress, the team must reset the robot by using a switch/button(s) located in a clearly visible location by the referee (see <<3.2.8>>).
++
+image::media/maze/restart_actions.jpg[float="left"]
+
+. There is no limit to the number of restarts within a round.
+
+. After three failed attempts to reach a checkpoint, a robot is allowed to proceed to the next checkpoint.
+
+. The team captain may choose to make further attempts at the course to earn the additional points available from scoring elements that have not already been earned before reaching the checkpoint.
+
+. If a lack of progress occurs in the evacuation zone, all victims (including ones that have rolled) will remain in their current position. Victims that are held by the robot will be placed roughly on the location of the robot when the lack of progress occurred. If a lack of progress occurs as the robot exits the evacuation zone whilst carrying victims, the victims will be randomly placed in the evacuation zone.
+
+. Any seesaws ahead of the robots's path can be moved to the favourable direction when a lack of progress is called.
+image::media/line/lack_of_progress.png[float="left"]
 
 === Scoring
 
-A robot is awarded points for successfully navigating each hazard (gaps in the line, speed bumps, intersections, dead ends, ramps, and obstacles).
+. A robot is awarded points for successfully navigating each hazard (gaps in the line, speed bumps, intersections, dead ends, ramps, and obstacles).
 
-Failed attempts at navigating hazards in the field are defined as a “Lack of Progress” (see 3.6).
+. Failed attempts at navigating hazards in the field are defined as a “Lack of Progress” (see 3.6).
 
-When a robot reaches a checkpoint tile it will earn points for each tile it has passed since the previous checkpoint. The points per tile depend on how many attempts the robot has made to reach the checkpoint:
+. When a robot reaches a checkpoint tile it will earn points for each tile it has passed since the previous checkpoint. The points per tile depend on how many attempts the robot has made to reach the checkpoint:
 
 * 1st attempt = 5 points/tile
 * 2nd attempt = 3 points/tile
@@ -78,76 +115,42 @@ When a robot reaches a checkpoint tile it will earn points for each tile it has 
 image::media/line/tile_scoring_example_1.png[float="left"]
 image::media/line/tile_scoring_example_2.png[float="left"]
 
-A robot is awarded points for successfully navigating through a ramp (5 points per ramp). Successfully navigating means that the robot reached the top/bottom tile of the ramp from the inclined tile autonomously.
+. A robot is awarded points for successfully navigating through a ramp (5 points per ramp). Successfully navigating means that the robot reached the top/bottom tile of the ramp from the inclined tile autonomously.
 
-If intersections or dead ends are used on the field, the path may go in the opposite direction through the course (going back to the path that a robot has already taken).
+. If intersections or dead ends are used on the field, the path may go in the opposite direction through the course (going back to the path that a robot has already taken).
 
-Points are awarded for successfully navigating each gap in the black line in the intended path of the course (10 points per gap). Points are awarded when robot has successfully reached the line after the gap (i.e.: more than half the robot is on the line after the gap when viewed from above.
+. Points are awarded for successfully navigating each gap in the black line in the intended path of the course (10 points per gap). Points are awarded when robot has successfully reached the line after the gap (i.e.: more than half the robot is on the line after the gap when viewed from above.
 
-Points are awarded for successfully navigating an obstacle. (10 points per obstacle). Points are awarded when the robot has successfully reached the subsequent tile and has reacquired the line in the intended direction. 
+. Points are awarded for successfully navigating an obstacle. (10 points per obstacle). Points are awarded when the robot has successfully reached the subsequent tile and has reacquired the line in the intended direction. 
 
-Points are awarded for successfully navigating a speed bump in the intended path of the course (5 points per speed bump). Points are awarded when the robot has traversed the speed bump and no part of the robot is in contact with the speed bump when viewed from above. A robot is said to be traversing a speed bump if more than half the robot is on the speed bump. Points are only awarded to speed bumps that are on the line. For speed bumps on the gap, if there was a straight line instead of a gap and the speed bump is on that imaginary line, points are awarded. 
+. Points are awarded for successfully navigating a speed bump in the intended path of the course (5 points per speed bump). Points are awarded when the robot has traversed the speed bump and no part of the robot is in contact with the speed bump when viewed from above. A robot is said to be traversing a speed bump if more than half the robot is on the speed bump. Points are only awarded to speed bumps that are on the line. For speed bumps on the gap, if there was a straight line instead of a gap and the speed bump is on that imaginary line, points are awarded. 
 
-Points are awarded for successfully navigating an intersection (15 points per intersection) when a robot has reached the subsequent tile and is tracing the line in the correct sequence.
+. Points are awarded for successfully navigating an intersection (15 points per intersection) when a robot has reached the subsequent tile and is tracing the line in the correct sequence.
 
-Points are awarded for successfully navigating a dead end. (15 points per dead end) when a robot has reached the subsequent tile and is tracing the line in the correct sequence. 
+. Points are awarded for successfully navigating a dead end. (15 points per dead end) when a robot has reached the subsequent tile and is tracing the line in the correct sequence. 
 
-Each gap, speed bump, intersection, dead end and obstacle can only be scored once per intended direction through the course. Points are not awarded for subsequent attempts through the course.
+. Each gap, speed bump, intersection, dead end and obstacle can only be scored once per intended direction through the course. Points are not awarded for subsequent attempts through the course.
 
-Successful victim rescue: Robots are awarded points for successfully rescuing victims. A successful victim rescue occurs when the victim is moved to the evacuation point. The victim needs to be completely inside of the evacuation point, and no part of the robot can be in contact with the victim). When the judge determines there has been a successful victim rescue, the victim will be removed from the evacuation zone to allow more victims to be evacuated. The amount of points awarded depends on the evacuation point tile chosen by the team:
+. Successful victim rescue: Robots are awarded points for successfully rescuing victims. A successful victim rescue occurs when the victim is moved to the evacuation point. The victim needs to be completely inside of the evacuation point, and no part of the robot can be in contact with the victim). When the judge determines there has been a successful victim rescue, the victim will be removed from the evacuation zone to allow more victims to be evacuated. The amount of points awarded depends on the evacuation point tile chosen by the team:
 
 * Level one: 30 points per successful rescue of a living victim, 20 points per successful rescue of a dead victim if all live victims are rescued. If not, dead victims are 5 points each. 
 * Level two: 40 points per successful rescue of a living victim, 30 points per successful rescue of a dead victim if all live victims are rescued. If not, dead victims are 5 points each.
 Full points (20 points for level one/30 points for level two) for a dead victim will only be awarded after ALL of the live victims have first been rescued. If a dead victim was moved into the evacuation zone before all the live victims were rescued, only 5 points will be awarded. 
 
-Ties in scoring will be resolved based on the time taken by each robot (or team of robots) to complete the course (this includes calibration time and check point election).
+. Ties in scoring will be resolved based on the time taken by each robot (or team of robots) to complete the course (this includes calibration time and check point election).
 
-Points are awarded for successfully driving out of the evacuation zone after at least one successful victim rescue or a robot touching a victim (20 points for finding the line again after driving out of the evacuation zone).  For these points to be rewarded, the robot must reach the third tile with half of the robot on the tile after an evacuation zone. Any checkpoint in the last three tiles will not be counted as a checkpoint tile when moving out of the evacuation zone, however any scoring elements will be accounted for.
+. Points are awarded for successfully driving out of the evacuation zone after at least one successful victim rescue or a robot touching a victim (20 points for finding the line again after driving out of the evacuation zone).  For these points to be rewarded, the robot must reach the third tile with half of the robot on the tile after an evacuation zone. Any checkpoint in the last three tiles will not be counted as a checkpoint tile when moving out of the evacuation zone, however any scoring elements will be accounted for.
 
-When a lack of progress occurs after the final check point marker, 5 points will be deducted from each victim rescued (however points will not be a negative number).
+. When a lack of progress occurs after the final check point marker, 5 points will be deducted from each victim rescued (however points will not be a negative number).
 
-Any hazards that are in the evacuation zone will not be counted towards additional points.
-
-=== Lack of progress
-
-A lack of progress occurs when:
-
-. a team captain declares a Lack of Progress.
-. a robot loses the black line without regaining it by the next tile in the sequence (see figures after 3.6.7).
-. a robot reaches a line that is not in the intended sequence footnote:["sequence" is not including diagonal sequence]
-
-If a lack of progress occurs, the robot must be positioned on the previous checkpoint tile facing the path towards the evacuation zone and checked by the referee.
-
-After a lack of progress, the team may reset the power supply (turn the robot off and on) and subsequently restart the program. The team is not allowed to change the program, give any information about the field to the robot, or repair the robot. Teams must notify the judge prior to their run what procedure will be performed when a lack of progress occurs; teams must stick to this method regardless of the situation.
-
-image::media/line/restart_actions.png[float="left"]
-
-There is no limit to the number of restarts within a round.
-
-After the three failed attempts to reach a checkpoint, a robot is allowed to proceed to the next checkpoint.
-
-The team captain may choose to make further attempts at the course to earn the additional points available for navigating obstacles, gaps in the line, dead ends, intersections and speed bumps that have not already been earned before reaching the checkpoint.
-
-If a lack of progress occurs in the evacuation zone, all victims (including ones that have rolled) will remain in their current position. Victims that are held by the robot will be placed roughly on the location of the robot when the lack of progress occurred. If a lack of progress occurs as the robot exits the evacuation room whilst carrying victims, the victims will be randomly placed in the evacuation zone.
-
-image::media/line/lack_of_progress.png[float="left"]
-
-=== Victim Placement
-
-The victims will be located in a random manner in the evacuation zone. The number of victims will be decided by the Organizing Committee.
-
-=== Evacuation Point Placement
-
-The evacuation point can be placed in any of the non-entry corners in the evacuation zone.
-After a Lack of Progress, the referee may roll the dice again and place the evacuation point in a new corner.
-The evacuation point will be fixed to the floor, but teams should be prepared for slight movements in the evacuation point.
+. Any hazards that are in the evacuation zone will not be counted towards additional points.
 
 === End of Play
 
-A team may elect to stop the round early at any time. In this case, the team captain must indicate to the referee the team's desire to terminate the run. The team will be awarded all points earned up to the call for the end of the round.
+. A team may elect to stop the round early at any time. In this case, the team captain must indicate to the referee the team's desire to terminate the run. The team will be awarded all points earned up to the call for the end of the round.
 
-The round ends when:
+. The round ends when:
 
-. the time expires;
-. a team captain calls the end of the round; or
-. a robot leaves the evacuation zone and reaches a line (see 3.5.14).
+.. the time expires;
+.. a team captain calls the end of the round; or
+.. a robot leaves the evacuation zone and reaches a line (see 3.5.14).

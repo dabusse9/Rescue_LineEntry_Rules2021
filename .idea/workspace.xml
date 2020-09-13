@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="f79f9099-be52-4bde-9bf3-3a2da3ee0ed8" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/2.Field.adoc" afterPath="$PROJECT_DIR$/2.Field.adoc" />
+      <change beforePath="$PROJECT_DIR$/2.Field.pdf" afterPath="$PROJECT_DIR$/2.Field.pdf" />
+      <change beforePath="$PROJECT_DIR$/3.Robots.adoc" afterPath="$PROJECT_DIR$/3.Robots.adoc" />
+      <change beforePath="$PROJECT_DIR$/4.Play.adoc" afterPath="$PROJECT_DIR$/4.Play.adoc" />
       <change beforePath="$PROJECT_DIR$/rule.adoc" afterPath="$PROJECT_DIR$/rule.adoc" />
       <change beforePath="$PROJECT_DIR$/rule.pdf" afterPath="$PROJECT_DIR$/rule.pdf" />
     </list>
@@ -20,8 +24,73 @@
         <entry file="file://$PROJECT_DIR$/rule.adoc">
           <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="679">
-                <caret line="110" column="3" lean-forward="false" selection-start-line="110" selection-start-column="3" selection-end-line="110" selection-end-column="3" />
+              <first_editor relative-caret-position="588">
+                <caret line="68" column="2" lean-forward="false" selection-start-line="68" selection-start-column="2" selection-end-line="68" selection-end-column="2" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3.Robots.adoc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3.Robots.adoc">
+          <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="1680">
+                <caret line="40" column="156" lean-forward="false" selection-start-line="40" selection-start-column="156" selection-end-line="40" selection-end-column="156" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="4.Play.adoc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4.Play.adoc">
+          <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="805">
+                <caret line="98" column="116" lean-forward="false" selection-start-line="98" selection-start-column="116" selection-end-line="98" selection-end-column="116" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="5.OpenTechnicalEvaluation.adoc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5.OpenTechnicalEvaluation.adoc">
+          <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="1302">
+                <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2.Field.adoc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2.Field.adoc">
+          <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="5082">
+                <caret line="121" column="172" lean-forward="false" selection-start-line="121" selection-start-column="172" selection-end-line="121" selection-end-column="172" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1.CodeOfConduct.adoc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1.CodeOfConduct.adoc">
+          <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="1596">
+                <caret line="38" column="82" lean-forward="false" selection-start-line="38" selection-start-column="82" selection-end-line="38" selection-end-column="82" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -45,11 +114,11 @@
         <option value="$PROJECT_DIR$/1.CodeOfConduct.adoc" />
         <option value="$PROJECT_DIR$/5.OpenTechnicalEvaluation.adoc" />
         <option value="$PROJECT_DIR$/6.ConflictResolution.adoc" />
+        <option value="$PROJECT_DIR$/rules_line.adoc" />
+        <option value="$PROJECT_DIR$/rule.adoc" />
         <option value="$PROJECT_DIR$/2.Field.adoc" />
         <option value="$PROJECT_DIR$/3.Robots.adoc" />
-        <option value="$PROJECT_DIR$/rules_line.adoc" />
         <option value="$PROJECT_DIR$/4.Play.adoc" />
-        <option value="$PROJECT_DIR$/rule.adoc" />
       </list>
     </option>
   </component>
@@ -62,7 +131,7 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-13" />
     <option name="y" value="-13" />
-    <option name="width" value="1390" />
+    <option name="width" value="1526" />
     <option name="height" value="883" />
   </component>
   <component name="ProjectView">
@@ -83,7 +152,6 @@
       <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -95,6 +163,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -245,12 +314,17 @@
       <workItem from="1599737431164" duration="670000" />
       <workItem from="1599738175444" duration="791000" />
       <workItem from="1599739143334" duration="313000" />
-      <workItem from="1599739863579" duration="720000" />
+      <workItem from="1599739863579" duration="749000" />
+      <workItem from="1600026476589" duration="3163000" />
+      <workItem from="1600029779494" duration="2114000" />
+      <workItem from="1600032116752" duration="183000" />
+      <workItem from="1600032404577" duration="4739000" />
+      <workItem from="1600037353800" duration="1822000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32685000" />
+    <option name="totallyTimeSpent" value="44735000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-13" y="-13" width="2762" height="1770" extended-state="6" />
@@ -282,34 +356,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297224" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.090277776" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -745,26 +791,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rules_maze.adoc" />
-    <entry file="file://$PROJECT_DIR$/1.CodeOfConduct.adoc">
-      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="1596">
-            <caret line="38" column="82" lean-forward="false" selection-start-line="38" selection-start-column="82" selection-end-line="38" selection-end-column="82" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5.OpenTechnicalEvaluation.adoc">
-      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1302">
-            <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/6.ConflictResolution.adoc">
       <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
         <state split_layout="SPLIT">
@@ -775,22 +801,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.Field.adoc">
+    <entry file="file://$PROJECT_DIR$/rules_line.adoc" />
+    <entry file="file://$PROJECT_DIR$/1.CodeOfConduct.adoc">
       <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="4746">
-            <caret line="113" column="0" lean-forward="true" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
+          <first_editor relative-caret-position="1596">
+            <caret line="38" column="82" lean-forward="false" selection-start-line="38" selection-start-column="82" selection-end-line="38" selection-end-column="82" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rules_line.adoc" />
+    <entry file="file://$PROJECT_DIR$/5.OpenTechnicalEvaluation.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1302">
+            <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.Field.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="5082">
+            <caret line="121" column="172" lean-forward="false" selection-start-line="121" selection-start-column="172" selection-end-line="121" selection-end-column="172" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/3.Robots.adoc">
       <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="1211">
-            <caret line="74" column="0" lean-forward="true" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+          <first_editor relative-caret-position="1680">
+            <caret line="40" column="156" lean-forward="false" selection-start-line="40" selection-start-column="156" selection-end-line="40" selection-end-column="156" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -799,8 +849,9 @@
     <entry file="file://$PROJECT_DIR$/4.Play.adoc">
       <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="1211">
-            <caret line="153" column="0" lean-forward="true" selection-start-line="153" selection-start-column="0" selection-end-line="153" selection-end-column="0" />
+          <first_editor relative-caret-position="805">
+            <caret line="98" column="116" lean-forward="false" selection-start-line="98" selection-start-column="116" selection-end-line="98" selection-end-column="116" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -809,8 +860,8 @@
     <entry file="file://$PROJECT_DIR$/rule.adoc">
       <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="679">
-            <caret line="110" column="3" lean-forward="false" selection-start-line="110" selection-start-column="3" selection-end-line="110" selection-end-column="3" />
+          <first_editor relative-caret-position="588">
+            <caret line="68" column="2" lean-forward="false" selection-start-line="68" selection-start-column="2" selection-end-line="68" selection-end-column="2" />
             <folding />
           </first_editor>
           <second_editor />

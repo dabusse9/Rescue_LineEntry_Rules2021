@@ -104,16 +104,16 @@ An autonomous robot should follow a black line while overcoming different proble
 
 Teams are not allowed to give their robot any information in advance about the field as the robot is supposed to recognize the field by itself. The robot earns points as follows:
 
-* 10 points for following the correct path on a tile at an intersection or a dead end.
 * 15 points for navigating through a seesaw tile
-* 10 points for overcoming an obstacle (bricks, blocks, weights and other large, heavy items). A robot is expected to navigate the various obstacles.
+* 15 points for overcoming an obstacle (bricks, blocks, weights and other large, heavy items). A robot is expected to navigate the various obstacles.
 * 10 points for reacquiring the line after a gap
 * 10 points for successfully navigating through a ramp (i.e. up and land successfully)
-* 5 points for negotiating a speed bump
+* 5 points for negotiating a speed bump.
 
-If the robot gets stuck in the field, it can be restarted at the last visited checkpoint. The robot will earn points when it reaches new checkpoints. At the end of the line there will be a rectangular room with walls (the evacuation zone). The entrance to the room will be marked with a strip of reflective silver tape on the floor.
+If the robot gets stuck in the field, it can be restarted at the last visited checkpoint. The robot will earn points when it reaches new checkpoints. At the end of the line there will be a rectangular zone with walls (the evacuation zone). The entrance to this zone will be marked with a strip of reflective silver tape on the floor.
 
-Once inside the evacuation zone, the robot should locate and transport as many live victims (reflective silver balls of 4-5 cm diameter that are electrically conductive) or dead victims (black balls of 4-5 cm diameter that are not electrically conductive) as possible to an evacuation point in one of the corners of the room, the robot should distinguish between live and dead victims and save live victims first. The robot can earn between 5 to 40 points for each victim depending of the difficulty level and order of rescue. The robot may face obstacles/speed bumps/debris in the evacuation zone. The robot will not score points by negotiating these difficulties.
+Once inside the evacuation zone, the robot should locate and transport as many victims (reflective silver balls of 4-5 cm diameter that are electrically conductive) as possible to an evacuation point in one of the corners of the room. The robot can earn multipliers for
+victim evacuations.
 
 <<<
 toc::[]
