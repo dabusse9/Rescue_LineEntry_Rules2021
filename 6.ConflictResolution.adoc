@@ -10,13 +10,13 @@
 
 === Rule Clarification
 
-. If any rule clarification is needed, please contact the RoboCupJunior Rescue Maze Entry Working Group.
+. If any rule clarification is needed, please contact the RoboCupJunior Rescue Line Entry Working Group.
 
-. If necessary even during a tournament, a rule clarification may be made by members of the RoboCupJunior Rescue Maze Entry Working Group and Organizing Committee (OC).
+. If necessary even during a tournament, a rule clarification may be made by members of the RoboCupJunior Rescue Line Entry Working Group and Organizing Committee (OC).
 
 === Special Circumstances
 
-. If special circumstances, such as unforeseen problems or capabilities of a robot occur, rules may be modified by the RoboCupJunior Rescue Maze Entry Working Group Chair in conjunction with available Technical Committee and Organizing Committee members, even during a tournament.
+. If special circumstances, such as unforeseen problems or capabilities of a robot occur, rules may be modified by the RoboCupJunior Rescue Line Entry Working Group Chair in conjunction with available Technical Committee and Organizing Committee members, even during a tournament.
 
 . If any of the team captains/mentors do not show up to the team meetings to discuss problems and the resulting rule modifications described at 6.3.1, it will be understood that they agreed and were aware of the changes.
 

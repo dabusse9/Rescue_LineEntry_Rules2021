@@ -130,4 +130,3 @@ include::4.Play.adoc[]
 include::5.OpenTechnicalEvaluation.adoc[]
 
 include::6.ConflictResolution.adoc[]
-Test

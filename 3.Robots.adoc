@@ -40,6 +40,9 @@ the referee, specifically for restarting the robot when a lack of progress occur
 
 . Each team must comply with the https://junior.robocup.org/robocupjunior-general-rules/[RoboCupJunior General Rules] regarding the number of members and each member's age.
 
+. The Rescue Line Entry League is open to students in the age from 10 to 14 years (age as of
+1st of July).
+
 . Each team member will need to explain their work and should have a specific technical role.
 
 . A student can be registered on only one team.

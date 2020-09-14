@@ -42,9 +42,15 @@ image::media/line/line_examples.jpg[]
 
 . Debris may be adjacent to walls.
 
+. There will be no bumpers, debris or obstacles in the evacuation zone.
+
+. There will be no bumpers on tiles with elements you can score points with (e.g. gaps, intersections, ramps).
+
 . Obstacles may consist of bricks, blocks, weights and other large, heavy items. Obstacles will be at least 15cm high, and can be fixed to the floor.
 
 . An obstacle will not occupy more than one line and/or tile.
+
+. There will be free space in a radius of 25 cm around each obstacle, to allow the robot to pass on both sides of the obstacle.
 
 . A robot is expected to navigate around obstacles. The robot may move obstacles but it should be noted that obstacles may be very heavy or fixed to the floor. Obstacles that are moved will remain where they were moved to, even if that prevents the robot from proceeding.
 
@@ -54,19 +60,11 @@ image::media/line/line_examples.jpg[]
 
 . Intersections can be placed anywhere except in the evacuation zone.
 
-. Intersections markers are green and 25 mm x 25 mm in dimension. They indicate the direction of the path the robot should follow.
+. There will be no gaps or bumpers on the tile ahead of an intersection.
 
-. If there is not a green marker at an intersection, the robot should continue straight ahead.
+. There will be no intersection markers (see Rescue Line rules for reference). Instead the organization committee will announce the direction of the path before a round is going to start (At least 30 minutes before the first scoring run). The direction of the path (left or right) may differ from round to round.
 
-. A dead end is when there are two green marks before an intersection (one on each side of the line), in this case the robot should turn around.
-
-. The intersections are always perpendicular but may have 3 or 4 branches.
-
-. Intersection markers will be placed just before the intersection. See the images below for possible scenarios.
-
-image::media/line/intersections_possibilities_1.png[]
-image::media/line/intersections_possibilities_2.jpg[]
-image::media/line/intersections_possibilities_3.jpg[]
+. There will be no dead ends.
 
 === Seesaws
 
@@ -75,6 +73,8 @@ image::media/line/intersections_possibilities_3.jpg[]
 . The seesaw will have an incline of less than 20 degrees when tilted to one side.
 
 . The seesaw tile will have a straight line with no scoring elements present.
+
+image::media/line/Seesaw.jpg[]
 
 === Evacuation Zone
 
@@ -85,8 +85,6 @@ image::media/line/intersections_possibilities_3.jpg[]
 . At the entrance to the evacuation zone, there is a 25 mm x 250 mm strip of reflective silver tape on the floor.
 
 . The evacuation point is a black triangle with a bump of 5mm along the side that does not touch a wall.
-
-image::media/line/evacuation_zones.png[float="left"]
 
 . The evacuation point can be placed in any of the non-entry/exit corners in the evacuation zone.
 

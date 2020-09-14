@@ -97,13 +97,19 @@ image::media/maze/restart_actions.jpg[float="left"]
 . If a lack of progress occurs in the evacuation zone, all victims (including ones that have rolled) will remain in their current position. Victims that are held by the robot will be placed roughly on the location of the robot when the lack of progress occurred. If a lack of progress occurs as the robot exits the evacuation zone whilst carrying victims, the victims will be randomly placed in the evacuation zone.
 
 . Any seesaws ahead of the robots's path can be moved to the favourable direction when a lack of progress is called.
+
 image::media/line/lack_of_progress.png[float="left"]
 
 === Scoring
 
-. A robot is awarded points for successfully navigating each hazard (gaps in the line, speed bumps, intersections, dead ends, ramps, and obstacles).
+. A robot is awarded points for successfully navigating each hazard (gaps in the line, speed bumps,
+intersections, ramps, obstacles, and seesaws). Points are awarded per hazard when the
+robot has reached the subsequent tile in sequence. A ramp as a hazard accounts for all of the
+inclined tiles that make up one ramp. Point allocations are, 10 points per gap, 15 points per obstacle,
+10 points per intersection, 10 points per ramp, 5 points per speed bump, and 15 points per
+seesaw.
 
-. Failed attempts at navigating hazards in the field are defined as a “Lack of Progress” (see 3.6).
+. Failed attempts at navigating hazards in the field are defined as a <<Lack of Progress>>.
 
 . When a robot reaches a checkpoint tile it will earn points for each tile it has passed since the previous checkpoint. The points per tile depend on how many attempts the robot has made to reach the checkpoint:
 
@@ -115,35 +121,32 @@ image::media/line/lack_of_progress.png[float="left"]
 image::media/line/tile_scoring_example_1.png[float="left"]
 image::media/line/tile_scoring_example_2.png[float="left"]
 
-. A robot is awarded points for successfully navigating through a ramp (5 points per ramp). Successfully navigating means that the robot reached the top/bottom tile of the ramp from the inclined tile autonomously.
+. Each gap, speed bump, intersection, dead end, obstacle, ramp, and seesaw can only be scored once
+per intended direction through the course. Points are not awarded for subsequent attempts through
+the course.
 
-. If intersections or dead ends are used on the field, the path may go in the opposite direction through the course (going back to the path that a robot has already taken).
+. Successful victim rescue: Robots are awarded multipliers for successfully rescuing victims. A
+successful victim rescue occurs when the victim is moved completely into the evacuation point, and
+no part of the robot can be in contact with the victim. When the referee determines there has been a
+successful victim rescue, the victim will be removed from the evacuation point to allow more victims
+to be evacuated. The multipliers are allocated as such:
 
-. Points are awarded for successfully navigating each gap in the black line in the intended path of the course (10 points per gap). Points are awarded when robot has successfully reached the line after the gap (i.e.: more than half the robot is on the line after the gap when viewed from above.
+.. x1.4 per successful rescue of a living victim
+.. Dead victims will result in the same multiplier as the live victim if at least one live victim has
+been successfully evacuated.
+.. x1.2 if only the dead victim is evacuated
 
-. Points are awarded for successfully navigating an obstacle. (10 points per obstacle). Points are awarded when the robot has successfully reached the subsequent tile and has reacquired the line in the intended direction. 
+. When a lack of progress occurs inside of the evacuation zone, 0.05 will be
+deducted from each of the obtained multiplier (however multipliers will not be less than 1).
 
-. Points are awarded for successfully navigating a speed bump in the intended path of the course (5 points per speed bump). Points are awarded when the robot has traversed the speed bump and no part of the robot is in contact with the speed bump when viewed from above. A robot is said to be traversing a speed bump if more than half the robot is on the speed bump. Points are only awarded to speed bumps that are on the line. For speed bumps on the gap, if there was a straight line instead of a gap and the speed bump is on that imaginary line, points are awarded. 
+. Multiplier values obtained throughout the scoring run will be directly multiplied together to the sum
+of all the other points gained during the scoring run.
 
-. Points are awarded for successfully navigating an intersection (15 points per intersection) when a robot has reached the subsequent tile and is tracing the line in the correct sequence.
+. The multipliers obtained from evacuations are used to increase the scores obtained from the line
+tracing course. The scores will be rounded to the nearest integer in each round.
 
-. Points are awarded for successfully navigating a dead end. (15 points per dead end) when a robot has reached the subsequent tile and is tracing the line in the correct sequence. 
-
-. Each gap, speed bump, intersection, dead end and obstacle can only be scored once per intended direction through the course. Points are not awarded for subsequent attempts through the course.
-
-. Successful victim rescue: Robots are awarded points for successfully rescuing victims. A successful victim rescue occurs when the victim is moved to the evacuation point. The victim needs to be completely inside of the evacuation point, and no part of the robot can be in contact with the victim). When the judge determines there has been a successful victim rescue, the victim will be removed from the evacuation zone to allow more victims to be evacuated. The amount of points awarded depends on the evacuation point tile chosen by the team:
-
-* Level one: 30 points per successful rescue of a living victim, 20 points per successful rescue of a dead victim if all live victims are rescued. If not, dead victims are 5 points each. 
-* Level two: 40 points per successful rescue of a living victim, 30 points per successful rescue of a dead victim if all live victims are rescued. If not, dead victims are 5 points each.
-Full points (20 points for level one/30 points for level two) for a dead victim will only be awarded after ALL of the live victims have first been rescued. If a dead victim was moved into the evacuation zone before all the live victims were rescued, only 5 points will be awarded. 
-
-. Ties in scoring will be resolved based on the time taken by each robot (or team of robots) to complete the course (this includes calibration time and check point election).
-
-. Points are awarded for successfully driving out of the evacuation zone after at least one successful victim rescue or a robot touching a victim (20 points for finding the line again after driving out of the evacuation zone).  For these points to be rewarded, the robot must reach the third tile with half of the robot on the tile after an evacuation zone. Any checkpoint in the last three tiles will not be counted as a checkpoint tile when moving out of the evacuation zone, however any scoring elements will be accounted for.
-
-. When a lack of progress occurs after the final check point marker, 5 points will be deducted from each victim rescued (however points will not be a negative number).
-
-. Any hazards that are in the evacuation zone will not be counted towards additional points.
+. Ties in scoring will be resolved based on the time taken by each robot (or team of robots) to complete
+the course (this includes calibration time).
 
 === End of Play
 
@@ -153,4 +156,4 @@ Full points (20 points for level one/30 points for level two) for a dead victim 
 
 .. the time expires;
 .. a team captain calls the end of the round; or
-.. a robot leaves the evacuation zone and reaches a line (see 3.5.14).
+.. the robot has successfully evacuated all victims.
