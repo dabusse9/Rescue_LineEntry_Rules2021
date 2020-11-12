@@ -117,7 +117,7 @@ seesaw.
 * 2nd attempt = 3 points/tile
 * 3rd attempt = 1 points/tile
 * Beyond the 3rd attempt = 0 points/tile
-
++
 image::media/line/tile_scoring_example_1.png[float="left"]
 image::media/line/tile_scoring_example_2.png[float="left"]
 
@@ -154,6 +154,6 @@ the course (this includes calibration time).
 
 . The round ends when:
 
-.. the time expires;
-.. a team captain calls the end of the round; or
+.. the time expires
+.. a team captain calls the end of the round or
 .. the robot has successfully evacuated all victims.
