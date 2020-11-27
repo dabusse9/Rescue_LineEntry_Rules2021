@@ -1,43 +1,40 @@
 == Play
 
-=== Pre-round Practice
+=== Pre-game Practice
 
 . When possible, teams will have access to practice fields for calibration and testing throughout the competition.
 
-. Whenever there are dedicated independent fields for competition and practice, it is at the organizers’ discretion if testing is allowed on the competition fields.
+. Whenever there are dedicated independent fields for competition and practice, it is at the organizers' discretion if testing is allowed on the competition fields.
 
 === Humans
 
-. Teams should designate one of their members as “captain” and another one as “co-captain.” Only these two team members will be allowed access to the competition fields, unless otherwise directed by a referee. Only the captain will be allowed to interact with the robot during a scoring run.
+. Teams should designate one of their members as "captain" and another one as "co-captain". Only these two team members will be allowed access to the competition fields, unless otherwise directed by a referee. Only the captain will be allowed to interact with the robot during a scoring run.
 
 . The captain can move the robot only when they are told to do so by a referee.
 
-. Other team members (and any spectators) within the vicinity of the competition field have to stand at least 150 cm away from the field while their robot is active, unless otherwise directed by a referee.
+. Other team members (and any spectators) within the vicinity of the competition field have to stand at least 150 cm away from the field at all times, unless otherwise directed by a referee.
 
 . No one is allowed to touch the fields intentionally during a scoring run.
 
-=== Start of Play
-. A run begins at the scheduled starting time whether or not the team is present or ready. Start times
-will be posted around the venue.
+. Any and all pre-mapping activities will result in immediate disqualification of the robot for the
+round. Pre-mapping is the act of humans providing the robot with information about the field (e.g.:
+location of obstacles, entrance to the evacuation zone, number of tiles after the evacuation zone,
+etc…) prior to the game.
 
-. The checkpoint marker is a marker that indicates for humans which tiles are checkpoints. A disk
-with 5 mm to 12 mm thickness and up to 70 mm in diameter has been used frequently, but can be
-different dependent on the organizer. Its purpose is to indicate the checkpoint tiles to humans.
-
-. The number of checkpoint markers and their locations will be predetermined by the field designers.
-
-. Checkpoints cannot be placed on tiles with scoring elements.
-
-. The start tile is a checkpoint, where the robot can restart.
-
-. Once the run has begun, the robot is not permitted to leave the competition area.
-
-. Each team will be given a maximum time of 8 minutes to calibrate the sensors and let the robot
-complete the course. The time for each run will be kept by the referee.
+=== Start of Game
+. Each team has a maximum of 8 minutes for a game. The game includes the time for calibration and
+the scoring run.
 
 . Calibration is defined as taking sensor readings and modifying the robot’s programming to
-accommodate such sensor readings. Any and all pre-mapping activities will result in immediate
-disqualification of the robot for the round.
+accommodate such sensor readings. Calibration does not count as pre-mapping.
+
+. The scoring run is defined as the time when the robot is moving autonomously to navigate the field,
+and the referee will record the scores.
+
+. A game begins at the scheduled starting time whether or not the team is present or ready. Start times
+will be posted around the venue.
+
+. Once the game has begun, the robot is not permitted to leave the competition area.
 
 . Teams may calibrate their robot in as many locations as desired on the field, but the clock will
 continue to run. Robots are not permitted to move on their own while calibrating.
@@ -46,22 +43,20 @@ continue to run. Robots are not permitted to move on their own while calibrating
 robot is placed on the start tile of the course as indicated by the referee. Once a scoring run has
 begun, no more calibration is permitted, including changing of code/code selection.
 
+. Teams may choose not to calibrate the robot and instead immediately start the scoring run.
+
 . Once a robot begins its scoring run, the referee will roll a standard 6-sided dice to determine in
 which corner the evacuation point will be located.
 
-. Obstacles may be removed, added or changed just before a scoring run starts to prevent teams from
-pre-mapping the layout of the fields.
+. Individual tiles, obstacles, and other scoring elements may be removed, added, or changed when the
+robot starts moving (as the scoring run begins), to prevent teams from pre-mapping the layout of the
+fields. This may happen on the basis of a die rolled by the referee or with another method of
+randomization announced by the organizers. For a particular field during a round, the referee will
+ensure the difficulty of the field will be kept similar and the maximum points to be constant.
 
-. Individual tiles may be changed or switched just before a scoring run starts to prevent teams from
-pre-mapping the layout of the fields. This may happen on the basis of a die rolled by the referee or
-with another method of randomization announced by the organizers.
+=== Scoring Run
 
-. The difficulty of the scoring run and the amount of points that can be obtained will be the same for
-every team in a given round on a particular field.
-
-=== Game Play
-
-. Robots will start behind the joint in between the start tile and the next tile along the course. Correct placement will be checked by the referee.
+. Robots will start behind the joint of the start tile and the subsequent tile along the course. Correct placement will be checked by the referee.
 
 . Modifying the robot during a scoring run is prohibited, which includes remounting parts that have fallen off.
 
@@ -76,7 +71,7 @@ every team in a given round on a particular field.
 === Lack of Progress
 
 . A lack of progress occurs when:
-.. a team captain declares a Lack of Progress.
+.. a team captain declares a lack of progress.
 .. a robot loses the black line without regaining it by the next tile in the sequence (see figures at end of the section).
 .. a robot reaches a line that is not in the intended sequence.
 +
@@ -84,19 +79,19 @@ NOTE: "sequence" is not including diagonal sequence
 
 . If a lack of progress occurs, the robot must be positioned on the previous checkpoint tile facing the path towards the evacuation zone and checked by the referee.
 
-. After a lack of progress, the team must reset the robot by using a switch/button(s) located in a clearly visible location by the referee (see <<3.2.8>>).
+. After a lack of progress, the team must reset the robot by using a switch/button(s) located in a clearly visible location by the referee (see 3.2.8).
 +
 image::media/maze/restart_actions.jpg[float="left"]
 
-. There is no limit to the number of restarts within a round.
+. There is no limit to the number of lack of progresses within a round.
 
 . After three failed attempts to reach a checkpoint, a robot is allowed to proceed to the next checkpoint.
 
-. The team captain may choose to make further attempts at the course to earn the additional points available from scoring elements that have not already been earned before reaching the checkpoint.
+. The team captain may choose to make further attempts at the course to earn the additional points available from scoring elements that have not already been earned before reaching the next checkpoint.
 
 . If a lack of progress occurs in the evacuation zone, all victims (including ones that have rolled) will remain in their current position. Victims that are held by the robot will be placed roughly on the location of the robot when the lack of progress occurred. If a lack of progress occurs as the robot exits the evacuation zone whilst carrying victims, the victims will be randomly placed in the evacuation zone.
 
-. Any seesaws ahead of the robots's path can be moved to the favourable direction when a lack of progress is called.
+. Any seesaws ahead of the robot's path can be moved to the favourable direction when a lack of progress is called.
 
 image::media/line/lack_of_progress.png[float="left"]
 
@@ -109,7 +104,7 @@ inclined tiles that make up one ramp. Point allocations are, 10 points per gap, 
 10 points per intersection, 10 points per ramp, 5 points per speed bump, and 15 points per
 seesaw.
 
-. Failed attempts at navigating hazards in the field are defined as a <<Lack of Progress>>.
+. Failed attempts at navigating hazards in the field are defined as a Lack of Progress (see <<Lack of Progress>>).
 
 . When a robot reaches a checkpoint tile it will earn points for each tile it has passed since the previous checkpoint. The points per tile depend on how many attempts the robot has made to reach the checkpoint:
 
@@ -148,12 +143,13 @@ tracing course. The scores will be rounded to the nearest integer in each round.
 . Ties in scoring will be resolved based on the time taken by each robot (or team of robots) to complete
 the course (this includes calibration time).
 
-=== End of Play
+=== End of Game
 
-. A team may elect to stop the round early at any time. In this case, the team captain must indicate to the referee the team's desire to terminate the run. The team will be awarded all points earned up to the call for the end of the round.
+. A team may elect to stop the game early at any time. In this case, the team captain must indicate to the referee the team's desire to terminate the game. The team will be awarded all points earned up to the call for the end of the game.
+The referee will stop the time at the end of game which will be recorded as the game time.
 
-. The round ends when:
+. The game ends when:
 
-.. the time expires
-.. a team captain calls the end of the round or
+.. the 8 minutes of allowed game time expires
+.. the team captain calls the end of the game
 .. the robot has successfully evacuated all victims.

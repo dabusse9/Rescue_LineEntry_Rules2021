@@ -2,7 +2,7 @@
 
 === Control
 
-. Robots must be controlled autonomously. The use of a remote control, manual control, or passing information (by sensors, cables, wirelessly, etc.) to the robot is not allowed.
+. Robots must be controlled autonomously. The use of a remote control, manual control, or passing information (by external sensors, cables, wirelessly, etc.) to the robot is not allowed.
 
 . Robots must be started manually by the team captain.
 
@@ -27,7 +27,7 @@ disabled. Non-conforming robots may be immediately disqualified from the tournam
 
 . Robots may incur damage by falling off the field, making contact with another robot, or making contact with field elements.  The organizing committee cannot anticipate all potential situations where damage to the robot may occur. Teams should ensure that all active elements on a robot are properly protected with resistant materials. For example, electrical circuits must be protected from all human contact and direct contact with other robots and field elements.
 
-. When batteries are transported or moved, it is strongly recommended that safety bags be used. Reasonable efforts should be made to ensure that robots avoid short circuits and chemical or air leaks.
+. When batteries are transported, moved or charged, it is strongly recommended that safety bags be used. Reasonable efforts should be made to ensure that robots avoid short circuits and chemical or air leaks.
 
 . Robots must be equipped with a handle which is to be used to pick them up during the scoring run.
 
@@ -45,9 +45,10 @@ the referee, specifically for restarting the robot when a lack of progress occur
 
 . Each team member will need to explain their work and should have a specific technical role.
 
-. A student can be registered on only one team.
+. A student can be registered on only one team across all RoboCupJunior leagues/sub-leagues.
 
-. A team is only allowed to participate in one league: Rescue Line Entry, Rescue Line, Rescue Maze, Rescue Maze Entry or Rescue Simulation.
+. A team is only allowed to participate in one league/sub-league in across all RoboCupJunior
+leagues/sub-leagues.
 
 . A participant may only participate twice on a Entry league level in a regional RCJ qualification
 final (e.g. German Open, Portuguese Open, etc.)
@@ -80,8 +81,8 @@ NOTE: However, it is highly recommended that teams publicly share their engineer
 
 . Modifications must be made within the time schedule of the tournament and teams cannot delay tournament play while making modifications.
 
-. If a robot fails to meet all specifications (even with modifications), it will be disqualified from that round (but not from the tournament).
+. If a robot fails to meet all specifications (even with modifications), it will be disqualified from that game (but not from the tournament).
 
-. No mentor assistance is allowed during the competition. (See <<Code of Conduct>>.)
+. No mentor assistance is allowed during the competition. (see <<Code of Conduct>>.)
 
-. Any violations of the rules may be penalized by disqualification from the tournament or the round or may result in a loss of points at the discretion of the referees, officials, organizing committee or general chairs.
+. Any violations of the rules may be penalized by disqualification from the tournament or the game or may result in a loss of points at the discretion of the referees, officials, organizing committee or general chairs.
