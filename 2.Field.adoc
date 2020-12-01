@@ -51,7 +51,7 @@ different dependent on the organizer.
 
 === Speed Bumps, Debris and Obstacles
 
-. Speed bumps will have a height of 1cm or less and will be white. When the speed bump is placed over any black line, the overlap between the speed bump and the black line will be coloured black.
+. Speed bumps will have a height of 1 cm or less and will be white. When the speed bump is placed over any black line, the overlap between the speed bump and the black line will be coloured black.
 
 . Debris will have a maximum height of 3 mm. It will not be fixed to the floor. Debris consists of small materials such as toothpicks or small wooden dowels, etc.
 
@@ -59,7 +59,7 @@ different dependent on the organizer.
 
 . There will be no bumpers on tiles with elements you can score points with (e.g. gaps, intersections, ramps).
 
-. Obstacles may consist of bricks, blocks, weights and other large, heavy items. Obstacles will be at least 15cm high, and can be fixed to the floor.
+. Obstacles may consist of bricks, blocks, weights and other large, heavy items. Obstacles will be at least 15 cm high, and can be fixed to the floor.
 
 . An obstacle will not occupy more than one line and/or tile.
 
@@ -118,10 +118,6 @@ image::media/line/Seesaw.jpg[]
 
 . The victims will be located in a random manner in the evacuation zone. There will be exactly two live victims and one dead victim placed in the evacuation zone.
 
-=== Rescue Kit
-
-. Rescue Kit Announcement for next year. (Challenge for this year?)
-
 === Environmental Conditions
 
 . The environmental conditions at a tournament may be different from the conditions at home.  Teams must come prepared to adjust their robots to the conditions at the venue.
@@ -132,5 +128,5 @@ image::media/line/Seesaw.jpg[]
 
 . The field may be affected by unexpected lightning interference (e.g. such as camera flash from spectators). Teams should prepare their robots to handle such interference.
 
-. All measurements in the rules have a tolerance of ±5%.
+. All measurements in the rules have a tolerance of ±10%.
 

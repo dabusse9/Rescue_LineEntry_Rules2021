@@ -14,7 +14,7 @@
 
 . Any robot kit or building blocks, either available on the market or built from raw hardware, may be used as long as the design and construction of the robot are primarily and substantially the original work of the students.
 
-. Teams are not permitted to use any commercially produced robot kits or sensors components that are specifically designed or marketed to complete any single major task of RoboCupJunior Rescue. Robots that do not comply will face immediate disqualification from the tournament.  If there is any doubt, teams should consult the Technical Committee (TC) prior to the competition.
+. Teams are not permitted to use any commercially produced robot kits or sensors components that are specifically designed or marketed to complete any single major task of RoboCupJunior Rescue. Robots that do not comply will face immediate disqualification from the tournament.  If there is any doubt, teams should consult the RoboCupJunior Rescue Line Entry Working Group prior to the competition.
 
 . For the safety of participants and spectators, only lasers of class 1 and 2 are allowed. This will be
 checked during inspection. Teams using lasers must have the datasheet of the laser, and also must
@@ -51,7 +51,7 @@ the referee, specifically for restarting the robot when a lack of progress occur
 leagues/sub-leagues.
 
 . A participant may only participate twice on a Entry league level in a regional RCJ qualification
-final (e.g. German Open, Portuguese Open, etc.)
+final (e.g. German Open, Portuguese Open, etc.). A participant is allowed to participate in a qualification competition for a regional final without restrictions.
 
 . Mentors/parents are not allowed to be with the students during the competition. The students will have to self-govern themselves (without mentor's supervision or assistance) during the long stretch of hours at the competition.
 

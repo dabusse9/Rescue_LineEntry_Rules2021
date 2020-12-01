@@ -32,11 +32,11 @@ endif::[]
 |Germany
 
 |
-|Joel Dierkes
+|Ansgar Bredenfeld
 |Germany
 
 |
-|Ansgar Bredenfeld
+|Joel Dierkes
 |Germany
 
 |
@@ -62,10 +62,10 @@ endif::[]
 ^|RoboCupJunior Official Forum
 
 a|
-[link=https://junior.robocup.org/]
+[link=https://www.robocupgermanopen.de]
 image::media/officialsite.jpg[]
 [.text-center]
-https://junior.robocup.org/[https://junior.robocup.org/]
+https://www.robocupgermanopen.de[https://www.robocupgermanopen.de]
 a|
 [link=https://junior.forum.robocup.org/]
 image::media/juniorforum.png[]
@@ -107,7 +107,7 @@ Teams are not allowed to give their robot any information in advance about the f
 * 15 points for navigating through a seesaw tile
 * 15 points for overcoming an obstacle (bricks, blocks, weights and other large, heavy items). A robot is expected to navigate the various obstacles.
 * 10 points for reacquiring the line after a gap
-* 10 points for successfully navigating through a ramp (i.e. up and land successfully)
+* 10 points for successfully navigating through a ramp (i.e. up and down successfully)
 * 5 points for negotiating a speed bump.
 
 If the robot gets stuck in the field, it can be restarted at the last visited checkpoint. The robot will earn points when it reaches new checkpoints. At the end of the line there will be a rectangular zone with walls (the evacuation zone). The entrance to this zone will be marked with a strip of reflective silver tape on the floor.

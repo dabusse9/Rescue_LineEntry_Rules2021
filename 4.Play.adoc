@@ -122,7 +122,7 @@ the course.
 
 . Successful victim rescue: Robots are awarded multipliers for successfully rescuing victims. A
 successful victim rescue occurs when the victim is moved completely into the evacuation point, and
-no part of the robot can be in contact with the victim. When the referee determines there has been a
+no part of the robot is in contact with the victim. When the referee determines there has been a
 successful victim rescue, the victim will be removed from the evacuation point to allow more victims
 to be evacuated. The multipliers are allocated as such:
 
