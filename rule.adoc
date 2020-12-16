@@ -110,7 +110,7 @@ Teams are not allowed to give their robot any information in advance about the f
 * 10 points for successfully navigating through a ramp (i.e. up and down successfully)
 * 5 points for negotiating a speed bump.
 
-If the robot gets stuck in the field, it can be restarted at the last visited checkpoint. The robot will earn points when it reaches new checkpoints. At the end of the line there will be a rectangular zone with walls (the evacuation zone). The entrance to this zone will be marked with a strip of reflective silver tape on the floor.
+If the robot gets stuck in the field, it can be restarted at the last visited checkpoint. The robot will earn points when it reaches new checkpoints. At the end of the path there will be a rectangular zone with walls (the evacuation zone). The entrance to this zone will be marked with a strip of reflective silver tape on the floor.
 
 Once inside the evacuation zone, the robot should locate and transport as many victims (reflective silver balls of 4-5 cm diameter that are electrically conductive) as possible to an evacuation point in one of the corners of the room. The robot can earn multipliers for
 victim evacuations.

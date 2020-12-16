@@ -114,7 +114,7 @@ seesaw.
 * Beyond the 3rd attempt = 0 points/tile
 +
 image::media/line/tile_scoring_example_1.png[float="left"]
-image::media/line/tile_scoring_example_2.png[float="left"]
+image::media/line/scoring.JPG[float="left"]
 
 . Each gap, speed bump, intersection, dead end, obstacle, ramp, and seesaw can only be scored once
 per intended direction through the course. Points are not awarded for subsequent attempts through
