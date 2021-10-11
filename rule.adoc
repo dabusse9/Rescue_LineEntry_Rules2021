@@ -40,16 +40,8 @@ endif::[]
 |Germany
 
 |
-|Person 5
-|Region 5
-
-|
-|Person 6
-|Region 6
-
-|
-|Person 7
-|Region 7
+|Oskar Kirmis
+|Germany
 
 |===
 
@@ -58,19 +50,19 @@ endif::[]
 
 [cols="2*^",hrows=1, options="header"]
 |===
-^|RoboCupJunior Official Site
+^|RoboCupJunior Germany Official Site
 ^|RoboCupJunior Official Forum
 
 a|
-[link=https://www.robocupgermanopen.de]
-image::media/officialsite.jpg[]
+[link=https://robocup.de/de/robocup-in-deutschland/]
+image::media/website_ger.JPG[]
 [.text-center]
-https://www.robocupgermanopen.de[https://www.robocupgermanopen.de]
+https://www.robocup.de[https://www.robocup.de]
 a|
 [link=https://junior.forum.robocup.org/]
 image::media/juniorforum.png[]
 [.text-center]
-https://junior.forum.robocup.org/[https://junior.forum.robocup.org/]
+https://junior.forum.robocup.org[https://junior.forum.robocup.org/]
 
 |===
 
