@@ -20,8 +20,8 @@
         <entry file="file://$PROJECT_DIR$/rule.adoc">
           <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="726">
-                <caret line="62" column="30" lean-forward="false" selection-start-line="62" selection-start-column="30" selection-end-line="62" selection-end-column="30" />
+              <first_editor relative-caret-position="42">
+                <caret line="75" column="93" lean-forward="false" selection-start-line="75" selection-start-column="93" selection-end-line="75" selection-end-column="93" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -160,7 +160,6 @@
     <panes>
       <pane id="Scratches" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -173,6 +172,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -340,11 +340,14 @@
       <workItem from="1606850206136" duration="139000" />
       <workItem from="1608135503728" duration="1497000" />
       <workItem from="1633942080977" duration="2034000" />
+      <workItem from="1633944452470" duration="33000" />
+      <workItem from="1633952261653" duration="44000" />
+      <workItem from="1706697313801" duration="8000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68661000" />
+    <option name="totallyTimeSpent" value="68746000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-13" y="-13" width="2762" height="1770" extended-state="6" />
@@ -910,8 +913,8 @@
     <entry file="file://$PROJECT_DIR$/rule.adoc">
       <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="726">
-            <caret line="62" column="30" lean-forward="false" selection-start-line="62" selection-start-column="30" selection-end-line="62" selection-end-column="30" />
+          <first_editor relative-caret-position="42">
+            <caret line="75" column="93" lean-forward="false" selection-start-line="75" selection-start-column="93" selection-end-line="75" selection-end-column="93" />
             <folding />
           </first_editor>
           <second_editor />
