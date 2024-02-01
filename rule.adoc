@@ -96,16 +96,19 @@ An autonomous robot should follow a black line while overcoming different proble
 
 Teams are not allowed to give their robot any information in advance about the field as the robot is supposed to recognize the field by itself. The robot earns points as follows:
 
-* 15 points for navigating through a seesaw tile
-* 15 points for overcoming an obstacle (bricks, blocks, weights and other large, heavy items). A robot is expected to navigate the various obstacles.
-* 10 points for reacquiring the line after a gap
-* 10 points for successfully navigating through a ramp (i.e. up and down successfully)
-* 5 points for negotiating a speed bump.
+* 10 points for following the correct path on a tile at an intersection.
+* 20 points for navigating through a seesaw tile.
+* 20 points for overcoming each obstacle (bricks, blocks, weights, and other large, heavy items). A robot is expected to navigate various obstacles.
+* 10 points for reacquiring the line after a tile with one or more gaps.
+* 10 points for successfully navigating through a ramp (i.e., up or down successfully).
+* 10 points for negotiating a tile with one or more speed bumps.
 
 If the robot gets stuck in the field, it can be restarted at the last visited checkpoint. The robot will earn points when it reaches new checkpoints. At the end of the path there will be a rectangular zone with walls (the evacuation zone). The entrance to this zone will be marked with a strip of reflective silver tape on the floor.
 
-Once inside the evacuation zone, the robot should locate and transport as many victims (reflective silver balls of 4-5 cm diameter that are electrically conductive) as possible to an evacuation point in one of the corners of the room. The robot can earn multipliers for
-victim evacuations.
+Once in the evacuation zone, the robot should locate and transport the victims to the designated evacuation points.
+The victims are represented by spheres with an off-center center of mass of 4 to 5 cm in diameter.
+The live victims are reflective silver which is electrically conductive, and the dead victims are black, which is not electrically conductive.
+The team can earn multipliers for victim evacuations.
 
 <<<
 toc::[]

@@ -66,7 +66,7 @@ ensure the difficulty of the field will be kept similar and the maximum points t
 
 . The robot must follow the course completely to enter the evacuation zone.
 
-. The robot has visited a tile when more than half the robot is within that tile when viewed from above.
+. The robot has reached a tile when more than half the robot is within that tile when viewed from above and the robot is actively following the line at that point in time.
 
 === Lack of Progress
 
@@ -100,13 +100,12 @@ image::media/line/lack_of_progress.png[float="left"]
 . A robot is awarded points for successfully navigating each hazard (gaps in the line, speed bumps,
 intersections, ramps, obstacles, and seesaws). Points are awarded per hazard when the
 robot has reached the subsequent tile in sequence. A ramp as a hazard accounts for all of the
-inclined tiles that make up one ramp. Point allocations are, 10 points per gap, 15 points per obstacle,
-10 points per intersection, 10 points per ramp, 5 points per speed bump, and 15 points per
-seesaw.
+inclined tiles that make up one ramp.
+Point allocations are 10 points per tile with one or more gaps, 10 points per tile with one or more speed bumps, 10 points per intersection, 10 points per ramp, 20 points per obstacle, and 20 points per seesaw.
 
 . Failed attempts at navigating hazards in the field are defined as a Lack of Progress (see <<Lack of Progress>>).
 
-. When a robot reaches a checkpoint tile it will earn points for each tile it has passed since the previous checkpoint. The points per tile depend on how many attempts the robot has made to reach the checkpoint:
+. When a robot reaches a checkpoint tile, it will earn points for each tile it has passed since the previous checkpoint. The points per tile depend on how many attempts the robot has made to reach the checkpoint:
 
 * 1st attempt = 5 points/tile
 * 2nd attempt = 3 points/tile
@@ -116,7 +115,7 @@ seesaw.
 image::media/line/tile_scoring_example_1.png[float="left"]
 image::media/line/scoring.JPG[float="left"]
 
-. Each gap, speed bump, intersection, dead end, obstacle, ramp, and seesaw can only be scored once
+. Each gap, speed bump, intersection, obstacle, ramp, and seesaw can only be scored once
 per intended direction through the course. Points are not awarded for subsequent attempts through
 the course.
 
@@ -132,7 +131,7 @@ been successfully evacuated.
 .. x1.2 if only the dead victim is evacuated
 
 . When a lack of progress occurs inside of the evacuation zone, 0.05 will be
-deducted from each of the obtained multiplier (however multipliers will not be less than 1).
+deducted from each of the obtained multiplier (however multipliers will not be less than 1.25).
 
 . Multiplier values obtained throughout the scoring run will be directly multiplied together to the sum
 of all the other points gained during the scoring run.

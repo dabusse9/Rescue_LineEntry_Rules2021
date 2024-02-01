@@ -79,6 +79,8 @@ different dependent on the organizer.
 
 . There will be no dead ends.
 
+. The intersections are always perpendicular but may have 3 or 4 branches.
+
 === Seesaws
 
 . A seesaw is comprised of a tile which can pivot around a hinge placed in the centre of a regular tile.
@@ -109,7 +111,7 @@ image::media/line/Seesaw.jpg[]
 
 . Victims may be located anywhere on the floor of the evacuation zone.
 
-. A victim represents a person and is in the form of a 4-5 cm diameter ball with a maximum weight of 80 g.
+. A victim represents a person and is in the form of a 4-5 cm diameter sphere with an off-center center of mass and a maximum weight of 80 g.
 
 . There are two types of victims:
 
