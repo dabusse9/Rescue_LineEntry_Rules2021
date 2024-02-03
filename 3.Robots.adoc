@@ -20,19 +20,24 @@
 checked during inspection. Teams using lasers must have the datasheet of the laser, and also must
 submit them prior to the competition as well as be able to show them during the competition.
 
-. Wireless communication must be used correctly as described on the https://junior.robocup.org/robocupjunior-general-rules/[RoboCupJunior General Rules].
-Robots performing other types of wireless communication need to be deleted or disabled. If the robot
-has other forms of wireless communication equipment, the team needs to prove that they are
-disabled. Non-conforming robots may be immediately disqualified from the tournament.
+. Wireless communication is only allowed within the robot or between robots of the same SuperTeam during the SuperTeam Challenge.
+It is only allowed to communicate via Bluetooth class 2 or class 3 (range shorter than 20 meters) or via ZigBee.
+Other types of wireless communication equipment need to be removed or disabled.
+If the robot has other wireless communication equipment, the team must prove that this wireless communication is disabled.
+Any form of wireless communication from the robot to external devices is explicitly prohibited.
+Non-conforming robots may be immediately disqualified from the tournament.
+Teams are responsible for their communication.
+The availability of frequencies cannot be guaranteed.
 
 . Robots may incur damage by falling off the field, making contact with another robot, or making contact with field elements.  The organizing committee cannot anticipate all potential situations where damage to the robot may occur. Teams should ensure that all active elements on a robot are properly protected with resistant materials. For example, electrical circuits must be protected from all human contact and direct contact with other robots and field elements.
 
 . When batteries are transported, moved or charged, it is strongly recommended that safety bags be used. Reasonable efforts should be made to ensure that robots avoid short circuits and chemical or air leaks.
 
-. Robots must be equipped with a handle which is to be used to pick them up during the scoring run.
+. *Robots must be equipped with a handle that is to be used to pick them up during the scoring run.*
 
-. Robots must be equipped with a single binary switch or button(s) or any kind, clearly visible to
-the referee, specifically for restarting the robot when a lack of progress occurs.
+. *Robots must be equipped with a single physical binary switch/button (with exception of buttons that are a part of commercial controller), clearly visible to the referee, for starting the robot at the begining of the run and when a lack of progress occurs.
+Procedure performed after LoP occurs can only include this button and at most one more switch for cutting the power.
+Team has to notify the referee about their LoP procedure before each scoring run, and only this procedure is allowed to be performed after a LoP.*
 
 === Team
 
@@ -67,13 +72,22 @@ final (e.g. German Open, Portuguese Open, etc.). A participant is allowed to par
 
 . Students will be asked about their preparation efforts and may be requested to answer surveys and participate in video-taped interviews for research purposes.
 
-. All teams must complete a web form prior to the competition to allow referees to better prepare for the interviews.  Instructions on how to submit the form will be provided to the teams prior to the competition.
+. All teams must complete a web form prior to the competition to allow referees to better prepare for the interviews.  Instructions on how to submit the form will be provided to the teams at least 4 weeks before the competition.
 
 . All teams have to submit their source code prior to the competition. The source code will not be shared with other teams without the team’s permission.
 
 . All teams must submit their engineering journal prior to the competition. The journals will not be shared with other teams without the team’s permission.
+The organizers will request permission at the registration.
+A guide for the Engineering Journal format is available
+on the https://junior.robocup.org/rcj-rescue-line/[RoboCupJunior Official website].
 
 NOTE: However, it is highly recommended that teams publicly share their engineering journal. With the teams that indicate that their engineering journals could be shared publicly during the registration process, the journal alongside their poster presentation will be shared through the RoboCupJunior Forum so that other teams could learn from them.
+
+. All teams must submit a Poster file before the competition and bring a physical Poster to the competition venue.
+The Poster is a public document that will be shared with the community during the Poster Presentation session at the competiiton venue.
+A template for the Poster is available on the https://junior.robocup.org/rcj-rescue-line/[RoboCupJunior Official website].
+
+. The deadline for delivering the documents is scheduled for 3 weeks before the first day of the competition.
 
 === Violations
 

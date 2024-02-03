@@ -1,0 +1,25 @@
+== Competition
+
+This chapter outlines the structure of an international RoboCupJunior Rescue competition.
+The competition format and the inclusion of elements like the SuperTeam Challenge may vary in local, regional and super-regional competitions.
+Please refer to the respective organiser for details.
+
+=== Rounds & Scoring
+
+. The competition will consist of multiple rounds of which the worst one or more will be omitted from the final score.
+
+=== Technical Challenge
+
+There will be no Technical Challenge (see Rescue Line rules for reference).
+
+=== SuperTeam Challenge
+
+The SuperTeam Challenge takes place independantly of the main competition and won’t influence the team’s individual score.
+It has its own award and is focussed on the cooperation between the teams.
+
+. Each SuperTeam will consist of at least two teams.
+Teams coming from regions that share a native language will not be part of the same SuperTeam.
+
+. The rules of the SuperTeam Challenge will be announced at the competition and require the teams of each SuperTeam to work together.
+
+. The SuperTeam Challenge will require substantial software changes and may require minor hardware adjustments.

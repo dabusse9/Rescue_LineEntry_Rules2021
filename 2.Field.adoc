@@ -16,8 +16,6 @@
 
 . Competitors should be aware that tiles may be mounted on thick backing or raised off the ground, which may make it difficult to get back on a tile where the robot comes off the course. No provision will be made to assist robots that drive off of a tile to get back onto the tile.
 
-. Tiles will be used as ramps to allow the robots to "climb" up to and down from different levels. Ramps will not exceed an incline of 25 degrees from the horizontal.
-
 . Robots must be designed so that they can navigate under tiles that form bridges over other tiles. Tiles
 placed above other tiles will be supported by pillars placed at tile corners with a square cross section
 of 25mm x 25mm, making each tile entrance/exit 25 cm. The minimum height (space between the floor and the ceiling) will be 25 cm.
@@ -30,7 +28,7 @@ of 25mm x 25mm, making each tile entrance/exit 25 cm. The minimum height (space 
 
 . The arrangement of the tiles and paths may vary between rounds.
 
-. The line will be 10 cm away from any edge of the field, walls, pillars to support ramps, and obstacles
+. The line will be 10 cm away from any edge of the field, walls, pillars to support ramps, seesaws, and obstacles
 that do not lie ahead of the path of the robot.
 
 image::media/line/line_examples.jpg[]
@@ -80,6 +78,18 @@ different dependent on the organizer.
 . There will be no dead ends.
 
 . The intersections are always perpendicular but may have 3 or 4 branches.
+
+=== Ramps
+
+. Tiles will be used as ramps to allow the robots to 'climb' up and down from different levels.
+
+. Ramps will not exceed an incline of 25 degrees from the horizontal.
+
+. More than one tile may be used to build one ramp up or down. Despite the number of tiles used in the construction, the ramp will be scored as one ramp as it takes from one level to another.
+
+. The ramp will be scored when the robot reaches the horizontal tile at the upper level after an ascending ramp or the horizontal tile at the bottom level after a descending ramp.
+
+. The ramp will have a straight line with no scoring elements present.
 
 === Seesaws
 

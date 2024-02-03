@@ -79,7 +79,7 @@ NOTE: "sequence" is not including diagonal sequence
 
 . If a lack of progress occurs, the robot must be positioned on the previous checkpoint tile facing the path towards the evacuation zone and checked by the referee.
 
-. After a lack of progress, the team must reset the robot by using a switch/button(s) located in a clearly visible location by the referee (see 3.2.8).
+. After a lack of progress, only the LoP procedure explained to the referee before the run start is allowed to be performed (see 3.2.8).
 +
 image::media/maze/restart_actions.jpg[float="left"]
 

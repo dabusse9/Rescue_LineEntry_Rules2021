@@ -122,6 +122,8 @@ include::3.Robots.adoc[]
 
 include::4.Play.adoc[]
 
-include::5.OpenTechnicalEvaluation.adoc[]
+include::5.Competition.adoc[]
 
-include::6.ConflictResolution.adoc[]
+include::6.OpenTechnicalEvaluation.adoc[]
+
+include::7.ConflictResolution.adoc[]
