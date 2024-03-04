@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="f79f9099-be52-4bde-9bf3-3a2da3ee0ed8" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/media/website_ger.JPG" afterPath="$PROJECT_DIR$/media/website_ger.JPG" />
       <change beforePath="$PROJECT_DIR$/rule.adoc" afterPath="$PROJECT_DIR$/rule.adoc" />
+      <change beforePath="$PROJECT_DIR$/rule.html" afterPath="$PROJECT_DIR$/rule.html" />
       <change beforePath="$PROJECT_DIR$/rule.pdf" afterPath="$PROJECT_DIR$/rule.pdf" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,34 +22,8 @@
         <entry file="file://$PROJECT_DIR$/rule.adoc">
           <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="42">
-                <caret line="75" column="93" lean-forward="false" selection-start-line="75" selection-start-column="93" selection-end-line="75" selection-end-column="93" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="5.OpenTechnicalEvaluation.adoc" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5.OpenTechnicalEvaluation.adoc">
-          <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="756">
-                <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="6.ConflictResolution.adoc" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/6.ConflictResolution.adoc">
-          <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="588">
-                <caret line="14" column="92" lean-forward="false" selection-start-line="14" selection-start-column="92" selection-end-line="14" selection-end-column="137" />
+              <first_editor relative-caret-position="252">
+                <caret line="63" column="22" lean-forward="false" selection-start-line="63" selection-start-column="22" selection-end-line="63" selection-end-column="22" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -73,7 +49,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="5376">
-                <caret line="128" column="50" lean-forward="false" selection-start-line="128" selection-start-column="50" selection-end-line="128" selection-end-column="50" />
+                <caret line="140" column="50" lean-forward="false" selection-start-line="140" selection-start-column="50" selection-end-line="140" selection-end-column="50" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -85,9 +61,11 @@
         <entry file="file://$PROJECT_DIR$/3.Robots.adoc">
           <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="2226">
-                <caret line="53" column="162" lean-forward="false" selection-start-line="53" selection-start-column="162" selection-end-line="53" selection-end-column="162" />
-                <folding />
+              <first_editor relative-caret-position="2436">
+                <caret line="58" column="162" lean-forward="false" selection-start-line="58" selection-start-column="162" selection-end-line="58" selection-end-column="162" />
+                <folding>
+                  <marker date="1708701682444" expanded="true" signature="470:1436" ph="=== Construction ..." />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
@@ -98,9 +76,11 @@
         <entry file="file://$PROJECT_DIR$/4.Play.adoc">
           <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="4872">
-                <caret line="116" column="29" lean-forward="false" selection-start-line="116" selection-start-column="29" selection-end-line="116" selection-end-column="29" />
-                <folding />
+              <first_editor relative-caret-position="4830">
+                <caret line="115" column="29" lean-forward="false" selection-start-line="115" selection-start-column="29" selection-end-line="115" selection-end-column="29" />
+                <folding>
+                  <marker date="1708701682446" expanded="true" signature="3175:3914" ph="=== Scoring Run ..." />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
@@ -158,9 +138,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -343,11 +323,12 @@
       <workItem from="1633944452470" duration="33000" />
       <workItem from="1633952261653" duration="44000" />
       <workItem from="1706697313801" duration="8000" />
+      <workItem from="1709564558228" duration="1906000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68746000" />
+    <option name="totallyTimeSpent" value="70652000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-13" y="-13" width="2762" height="1770" extended-state="6" />
@@ -358,7 +339,7 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297224" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32950708" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -880,9 +861,11 @@
     <entry file="file://$PROJECT_DIR$/3.Robots.adoc">
       <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="2226">
-            <caret line="53" column="162" lean-forward="false" selection-start-line="53" selection-start-column="162" selection-end-line="53" selection-end-column="162" />
-            <folding />
+          <first_editor relative-caret-position="2436">
+            <caret line="58" column="162" lean-forward="false" selection-start-line="58" selection-start-column="162" selection-end-line="58" selection-end-column="162" />
+            <folding>
+              <marker date="1708701682444" expanded="true" signature="470:1436" ph="=== Construction ..." />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -891,9 +874,11 @@
     <entry file="file://$PROJECT_DIR$/4.Play.adoc">
       <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="4872">
-            <caret line="116" column="29" lean-forward="false" selection-start-line="116" selection-start-column="29" selection-end-line="116" selection-end-column="29" />
-            <folding />
+          <first_editor relative-caret-position="4830">
+            <caret line="115" column="29" lean-forward="false" selection-start-line="115" selection-start-column="29" selection-end-line="115" selection-end-column="29" />
+            <folding>
+              <marker date="1708701682446" expanded="true" signature="3175:3914" ph="=== Scoring Run ..." />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -903,7 +888,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="5376">
-            <caret line="128" column="50" lean-forward="false" selection-start-line="128" selection-start-column="50" selection-end-line="128" selection-end-column="50" />
+            <caret line="140" column="50" lean-forward="false" selection-start-line="140" selection-start-column="50" selection-end-line="140" selection-end-column="50" />
             <folding />
           </first_editor>
           <second_editor />
@@ -913,8 +898,8 @@
     <entry file="file://$PROJECT_DIR$/rule.adoc">
       <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="42">
-            <caret line="75" column="93" lean-forward="false" selection-start-line="75" selection-start-column="93" selection-end-line="75" selection-end-column="93" />
+          <first_editor relative-caret-position="252">
+            <caret line="63" column="22" lean-forward="false" selection-start-line="63" selection-start-column="22" selection-end-line="63" selection-end-column="22" />
             <folding />
           </first_editor>
           <second_editor />

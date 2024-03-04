@@ -1,4 +1,4 @@
-= RoboCupJunior Rescue Line Entry - Rules 2022
+= RoboCupJunior Rescue Line Entry - Rules 2024
 Last update: {docdate}
 :toc: macro
 :toc-title: Contents
@@ -37,6 +37,10 @@ endif::[]
 
 |
 |Joel Dierkes
+|Germany
+
+|
+|Niko Lockenvitz
 |Germany
 
 |
