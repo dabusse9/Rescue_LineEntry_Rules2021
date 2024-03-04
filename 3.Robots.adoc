@@ -35,9 +35,8 @@ The availability of frequencies cannot be guaranteed.
 
 . *Robots must be equipped with a handle that is to be used to pick them up during the scoring run.*
 
-. *Robots must be equipped with a single physical binary switch/button (with exception of buttons that are a part of commercial controller), clearly visible to the referee, for starting the robot at the begining of the run and when a lack of progress occurs.
-Procedure performed after LoP occurs can only include this button and at most one more switch for cutting the power.
-Team has to notify the referee about their LoP procedure before each scoring run, and only this procedure is allowed to be performed after a LoP.*
+. *Robots must be equipped with a single binary switch or button(s) or any kind, clearly visible to
+the referee, specifically for restarting the robot when a lack of progress occurs. Team has to notify the referee about their LoP procedure before each scoring run, and only this procedure is allowed to be performed after a LoP.*
 
 === Team
 

@@ -128,7 +128,7 @@ to be evacuated. The multipliers are allocated as such:
 .. x1.4 per successful rescue of a living victim
 .. Dead victims will result in the same multiplier as the live victim if at least one live victim has
 been successfully evacuated.
-.. x1.2 if only the dead victim is evacuated
+.. x1.25 if only the dead victim is evacuated
 
 . When a lack of progress occurs inside of the evacuation zone, 0.05 will be
 deducted from each of the obtained multiplier (however multipliers will not be less than 1.25).

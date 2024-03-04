@@ -28,7 +28,7 @@ endif::[]
 |Germany
 
 |Chair
-|Sören Gaedcke
+|Sören Hesterberg
 |Germany
 
 |
@@ -77,7 +77,7 @@ WARNING: Corrections and clarifications to the rules may be posted on the Forum 
 
 IMPORTANT: Please read through the https://junior.robocup.org/robocupjunior-general-rules/[RoboCupJunior General Rules] before proceeding on with these
 rules, as they are the premise for all rules. The English rules published by the
-Line Entry Working Group are the only official rules for RoboCupJunior Rescue Line Entry 2022. The translated versions that can be published by each
+Line Entry Working Group are the only official rules for RoboCupJunior Rescue Line Entry 2024. The translated versions that can be published by each
 regional committee are only reference information for non-English speakers to better understand the rules. It is the responsibility of the teams to have read and understood
 the official rules.
 
@@ -105,7 +105,7 @@ Teams are not allowed to give their robot any information in advance about the f
 * 20 points for overcoming each obstacle (bricks, blocks, weights, and other large, heavy items). A robot is expected to navigate various obstacles.
 * 10 points for reacquiring the line after a tile with one or more gaps.
 * 10 points for successfully navigating through a ramp (i.e., up or down successfully).
-* 10 points for negotiating a tile with one or more speed bumps.
+* 10 points for navigating a tile with one or more speed bumps.
 
 If the robot gets stuck in the field, it can be restarted at the last visited checkpoint. The robot will earn points when it reaches new checkpoints. At the end of the path there will be a rectangular zone with walls (the evacuation zone). The entrance to this zone will be marked with a strip of reflective silver tape on the floor.
 
