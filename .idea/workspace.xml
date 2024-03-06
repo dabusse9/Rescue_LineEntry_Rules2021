@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f79f9099-be52-4bde-9bf3-3a2da3ee0ed8" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/3.Robots.adoc" afterPath="$PROJECT_DIR$/3.Robots.adoc" />
-      <change beforePath="$PROJECT_DIR$/4.Play.adoc" afterPath="$PROJECT_DIR$/4.Play.adoc" />
-      <change beforePath="$PROJECT_DIR$/rule.adoc" afterPath="$PROJECT_DIR$/rule.adoc" />
-      <change beforePath="$PROJECT_DIR$/rule.pdf" afterPath="$PROJECT_DIR$/rule.pdf" />
-    </list>
+    <list default="true" id="f79f9099-be52-4bde-9bf3-3a2da3ee0ed8" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -117,7 +111,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-13" />
     <option name="y" value="-13" />
     <option name="width" value="1526" />
@@ -325,15 +319,15 @@
       <workItem from="1706697313801" duration="8000" />
       <workItem from="1709564558228" duration="1906000" />
       <workItem from="1709567432114" duration="118000" />
-      <workItem from="1709575196865" duration="1504000" />
+      <workItem from="1709575196865" duration="1636000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72274000" />
+    <option name="totallyTimeSpent" value="72406000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-13" y="-13" width="2762" height="1770" extended-state="7" />
+    <frame x="-13" y="-13" width="2762" height="1770" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
